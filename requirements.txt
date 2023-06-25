@@ -1,0 +1,6 @@
+pip
+django
+djangorestframework
+django-copyright
+django-heroku
+gunicorn
